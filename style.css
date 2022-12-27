@@ -3,12 +3,12 @@ body {
     color: #777;
     line-height: 1.7;
 }
-/*
+
 h1,h2,h3,h4,h5,h6 {
     font-weight: 600;
     color: #222;
 }
-
+/*
 a {
     color: #222;
     text-decoration: none;
@@ -75,3 +75,7 @@ img{
 
 
 
+.my-custom-row{
+    background-color: red;
+    height: 400px;
+}
