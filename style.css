@@ -155,3 +155,38 @@ img{
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
   background-color: #32c5d2;
 }
+
+
+#map {
+    width: 100%;
+  }
+/* Customize the form background color */
+form {
+  background-color: #eee;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 300px;
+}
+
+/* Customize the label font */
+label {
+  font-family: "Roboto", sans-serif;
+}
+
+/* Customize the form element font size and padding */
+.form-control {
+  font-size: 14px;
+  padding: 5px;
+}
+
+/* Customize the submit button */
+.btn-primary {
+  background-color: #F58d17;
+  border-color: #F58d17;
+}
+.btn-primary:hover {
+  background-color: #F58d17;
+  border-color: #F58d17;
+}
+
+
