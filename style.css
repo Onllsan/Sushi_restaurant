@@ -34,15 +34,15 @@ img{
 }
 
 .slide-1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/caro1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/caro.jpg);
 }
 
 .slide-2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/caro2.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/ca.jpg);
 }
 
 .slide-3 {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/caro3.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/chefff.jpg);
 }
 
 #heroSlider h6::after,
@@ -179,14 +179,12 @@ label {
   padding: 5px;
 }
 
-/* Customize the submit button */
-.btn-primary {
-  background-color: #F58d17;
-  border-color: #F58d17;
+.btn-cover{
+  border-radius: 10px !important;
+    color: #fff !important;
+    border-color: #F58d17 !important;
+    background-color: #F58d17 !important;
 }
-.btn-primary:hover {
-  background-color: #F58d17;
-  border-color: #F58d17;
-}
+
 
 
