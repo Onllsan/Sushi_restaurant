@@ -1,17 +1,4 @@
 
-/*
-a {
-    color: #222;
-    text-decoration: none;
-    transition: all 0.4s;
-}
-
-a:hover {
-    color: #F58d17;
-}
-*/
-
-
 img{
     width: 100%;
 }
@@ -84,7 +71,7 @@ img{
     width: 100%;
 }
 
-/************************image hover effect*******************/
+
 .item-img-wrap {
   position: relative;
   text-align: center;
@@ -113,7 +100,6 @@ img{
   position: absolute;
   top: 0;
   left: 0;
-  background: url(http://bootstraplovers.com/templates/assan-2.2/main-template/img/plus.png) no-repeat center center rgba(0, 0, 0, 0.7);
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   filter: alpha(opacity=0);
   opacity: 0;
@@ -136,48 +122,6 @@ img{
 }
 
 
-/*************pagination***********/
-.gallery-bottom .pagination {
-  margin-top: 0px;
-}
-
-.pagination > li > a, .pagination > li > span {
-  background-color: #ccc;
-  padding: 3px 9px;
-  color: #fff;
-  border: 0px;
-}
-
-.pagination > li > a {
-  margin-right: 5px;
-}
-
-.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
-  background-color: #32c5d2;
-}
-
-
-#map {
-    width: 100%;
-  }
-/* Customize the form background color */
-form {
-  background-color: #eee;
-  padding: 20px;
-  border-radius: 5px;
-  max-width: 300px;
-}
-
-/* Customize the label font */
-label {
-  font-family: "Roboto", sans-serif;
-}
-
-/* Customize the form element font size and padding */
-.form-control {
-  font-size: 14px;
-  padding: 5px;
-}
 
 .btn-cover{
   border-radius: 10px !important;
@@ -186,5 +130,9 @@ label {
     background-color: #F58d17 !important;
 }
 
+.badge{
+  background-color: #fbb260 !important;
+  position: relative; 
 
+}
 
